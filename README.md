@@ -64,3 +64,15 @@ Important note: `<path_to_pretrained_network>` is the path to the pretrained mod
 
 ## Acknowledgement
 Our codebase is developed based on [Vuong et al.](https://github.com/andvg3/Grasp-Anything).
+If you find our codebase useful, please consider citing:
+
+```
+   @InProceedings{Vuong_2024_CVPR,
+    author    = {Vuong, An Dinh and Vu, Minh Nhat and Huang, Baoru and Nguyen, Nghia and Le, Hieu and Vo, Thieu and Nguyen, Anh},
+    title     = {Language-driven Grasp Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {17902-17912}
+}
+```
