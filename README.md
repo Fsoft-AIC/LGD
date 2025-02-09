@@ -7,6 +7,8 @@ This is the repository of the paper "Language-driven Grasp Detection."
    1. [Training](#training)
    1. [Testing](#testing)
 
+Note: Experiments were conducted on much larger data size.
+
 ## Installation
 - Create a virtual environment
 ```bash
